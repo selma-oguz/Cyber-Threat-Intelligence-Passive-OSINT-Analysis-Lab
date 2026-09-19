@@ -1,3 +1,5 @@
+<img width="1117" height="792" alt="Dark Web" src="https://github.com/user-attachments/assets/501744e9-4d49-4202-9bef-a7c2a12715e0" />
+
 # Cyber Threat Intelligence & Passive OSINT Analysis Lab
 
 **Report ID:** CTI-OSINT-001
