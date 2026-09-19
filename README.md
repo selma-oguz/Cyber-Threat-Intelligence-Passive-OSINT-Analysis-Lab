@@ -8,6 +8,10 @@
 
 **TLP (Traffic Light Protocol):** GREEN (Cleared for public portfolio/educational sharing)
 
+Disclaimer & Source:
+The organizations, entities, and events described in this report are entirely fictional and were analyzed strictly for educational purposes. This analysis is based on a simulated training scenario.
+Source: Centri - Introduction to Dark Web Operations
+
 ## 1. Executive Summary
 
 This report details a passive reconnaissance and Open-Source Intelligence (OSINT) exercise conducted within the Tor network. The primary objective was to observe the operational security (OPSEC) practices, communication vectors, and logistical footprints of high-volume threat actors operating in dark web marketplaces. The analysis profiles a specific vendor purportedly based in the United Kingdom, focusing on their supply chain methodologies and digital footprint.
